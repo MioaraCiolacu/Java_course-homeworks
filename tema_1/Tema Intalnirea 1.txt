@@ -1,0 +1,37 @@
+Cateva link-uri utile prin care puteti sa treceti:
+
+(HOT TOPIC!!!) La linkurile de pe w3schools va rog sa treceti prin exemple sa le faceti: Acel butonas: "Try It Yourself"
+
+PRIMITIVE
+
+Linkuri legate de curs:
+
+https://www.w3schools.com/java/java_comments.asp
+https://www.w3schools.com/java/java_variables.asp 
+https://www.w3schools.com/java/java_data_types.asp
+
+Linkuri utile. Adaos de cunostinte.
+
+https://www.w3schools.com/java/java_type_casting.asp
+https://www.javatpoint.com/char-keyword-in-java (Primitiva 'char').
+
+//Acest link va ajuta pentru a intelge primitiva 'char' https://www.asciitable.com/
+
+
+Probleme recoamndate:\
+https://github.com/drtrainig/cap2/tree/master/src/com/itfactory/primitive
+Pe acest link o sa gasiti 6 clase, fiecare cu cate o metoda main creata.
+In fiecare clasa veti gasi cerinta si resursele necesare.
+Indicatie!!! Creati-va cate o clasa pentru fiecare (Cu acelasi nume sau nu) iar din acele clase copiati metoda main cu continutul una cate una si le rezolvati.
+(Nu este necesar sa creati cate un proiect pentru fiecare clasa. Puteti avea un singur proiect cu mai multe clase care contin metode main. Cand rulati programele, utilizati butonasul verde din dretpul metodei main pe care doriti sa o rulati).
+
+
+Probleme optionale.
+1. Creati un proiect in Java in care sa aveti urmatorul pachet default: "com.itfactory".
+Sa se creeze o clasa (numele il veti alege voi) in care sa aveti o metoda main.
+Cerinta este sa cititi doua numere de la tastatura si sa afisati restul impartirii lor.
+Exemplu: Daca citim 10 si 3, restul impartirii lui 10 la 3 va fi 1. (Puteti sa va uitati peste impartirea cu rest pentru a intelege restul impartirii).
+
+
+2. Extindeti problema 1 prin a afisa inmultirea celor doua numere si impartirea (cu virgula) a celor doua numere.
+

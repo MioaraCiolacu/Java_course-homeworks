@@ -1,0 +1,19 @@
+Diferentele din problema Credite Bancare
+
+1.public class BancaPentruLocuinte extends UnitateBancara:
+//pentru ca am avut clasa abstracta, aici avem extends, nu implements ca la intefata
+//pentru ca la abstract Unitatea bancara, i-am trecut un fild, am adus aici si constructorul aferent
+
+2.public class BancaPentruNevoiPersonale extends UnitateBancara:
+//pentru ca am avut clasa abstracta, aici avem extends, nu implements ca la intefata
+//pentru ca la abstract Unitatea bancara, i-am trecut un fild, am adus aici si constructorul aferent
+
+3.In clasa Main:
+//in prima faza, la proiectul cu interfata a trebuit doar sa declar interfata si apoi facute propiile implementari, pe cand in proiectul cu clasa abstracta, am putut-o declara direct si facuta propria implementare
+//am putut apela metodele create in clasa abstracta unitate bancara
+
+4.public abstract class UnitateBancara:
+//cea care a fost interfata a primit numele de "interface", pe cand aceasta a fost "abstract class"
+//la interfata am declarat doua metode, fara corp si atat.
+//la abstract class Unitate Bancara, pot avea si field declarat, dar si constructor, pe cand la interfata nu
+//pot avea metode abstracte, ca si la interfata, sau pot avea si metode cu corp, ceea ce intr-o interfata nu este indicat si nici nu au fost folosite in acest caz
